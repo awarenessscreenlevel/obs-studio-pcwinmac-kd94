@@ -1,4 +1,4 @@
-# 
+# Exclusif OBS Studio outils pour Mac OS | Open Source OBS Studio outils pour PC Windows. Avec réverbération et chaînes d'effets — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
